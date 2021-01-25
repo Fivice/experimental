@@ -47,11 +47,10 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/net.sourceforge.tcljava/com.springsource.tcl.lang.jacl -->
         <dependency>
-            <groupId>net.sourceforge.tcljava</groupId>
-            <artifactId>com.springsource.tcl.lang.jacl</artifactId>
-            <version>1.4.1</version>
+            <groupId>top.fivice</groupId>
+            <artifactId>log-sample</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
 
     </dependencies>
